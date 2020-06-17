@@ -10,7 +10,7 @@ It’s easy to set up, self explanatory and I believe it is a good start for Jun
 
 - Use vanilla Javascript, I repeat use vanilla Javascript.
 - Style your components using CSS, SASS or LESS...Oh and DON'T USE Bootstrap or any other CSS Framework. Create you own styles practices, practices, practices.
-- Don't forget to create a index.html file
+- Don't forget to create an index.html file
 - Publish your work using GitHub Pages, Heroku or Netlify.
 
 **REMEMBER**: Everything needs to be responsive. AND don't forget to use normalize.css or sanitize.css or reset.css
@@ -18,12 +18,14 @@ It’s easy to set up, self explanatory and I believe it is a good start for Jun
 ## List
 
 - 4 blocks: Place 4 ```<div>``` elements in every corner of the page.
+
 ![Demo](images/4corners.jpg)
 
-- Create a Section: With a Section Title, Image, desciption and link field. Extra point here if you think about Accessibility.
+- Create a Section: With a Section Title, Image, description and link field. Extra point here if you think about Accessibility.
+
 ![Demo Section](images/sectionTitle.jpg)
 
-- Create a Carousel: Full width responsive image slider using vanilla JS.
+- Create a Carousel: Full-width responsive image slider using vanilla JS.
 
 		- The image slider should loop infinitely
 		- The image slider should auto play, unless hovered by user
@@ -34,6 +36,9 @@ It’s easy to set up, self explanatory and I believe it is a good start for Jun
 
 - Create a Quiz: Using a REST API of your choice create a 10 TRUE or FALSE questions and show a results screen with the score, and also add all the questions and whether the answer was correct or not.
 
-Tag me if you want me to review your code you can find me in Twitter at @vanss472
+		Sample API: https://opentdb.com/api.php?amount=10&difficulty=hard&type=boolean
+
+
+---> Tag me if you want me to review your code you can find me in Twitter at @vanss472
 
 <a href="https://www.buymeacoffee.com/vanss472" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Beer" style="height: 51px !important;width: 217px !important;" ></a>
