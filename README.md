@@ -17,15 +17,15 @@ It’s easy to set up, self explanatory and I believe it is a good start for Jun
 
 ## List
 
-- 4 blocks: Place 4 ```<div>``` elements in every corner of the page.
+1. 4 blocks: Place 4 ```<div>``` elements in every corner of the page.
 
 ![Demo](images/4corners.jpg)
 
-- Create a Section: With a Section Title, Image, description and link field. Extra point here if you think about Accessibility.
+2. Create a Section: With a Section Title, Image, description and link field. Extra point here if you think about Accessibility.
 
 ![Demo Section](images/sectionTitle.jpg)
 
-- Create a Carousel: Full-width responsive image slider using vanilla JS.
+3. Create a Carousel: Full-width responsive image slider using vanilla JS.
 
 		- The image slider should loop infinitely
 		- The image slider should auto play, unless hovered by user
@@ -34,7 +34,7 @@ It’s easy to set up, self explanatory and I believe it is a good start for Jun
 
 ![Demo Carousel](images/carousel.jpg)
 
-- Create a Quiz: Using a REST API of your choice create a 10 TRUE or FALSE questions and show a results screen with the score, and also add all the questions and whether the answer was correct or not.
+4. Create a Quiz: Using a REST API of your choice create a 10 TRUE or FALSE questions and show a results screen with the score, and also add all the questions and whether the answer was correct or not.
 
 		Sample API: https://opentdb.com/api.php?amount=10&difficulty=hard&type=boolean
 
