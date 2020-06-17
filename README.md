@@ -39,6 +39,8 @@ It’s easy to set up, self explanatory and I believe it is a good start for Jun
 		Sample API: https://opentdb.com/api.php?amount=10&difficulty=hard&type=boolean
 
 
----> Tag me if you want me to review your code you can find me in Twitter at @vanss472
+
 
 <a href="https://www.buymeacoffee.com/vanss472" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Beer" style="height: 51px !important;width: 217px !important;" ></a>
+
+> Tag me if you want me to review your code you can find me in Twitter at @vanss472
